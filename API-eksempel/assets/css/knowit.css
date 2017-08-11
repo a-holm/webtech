@@ -1,0 +1,104 @@
+body {
+	font-family: 'Signika Negative', sans-serif;
+	background: linear-gradient(270deg, #ffd4e5, #d4ffea, #eecbff, #feffa3);
+	background-size: 800% 800%;
+	-webkit-animation: AnimationName 30s ease infinite;
+	-moz-animation: AnimationName 30s ease infinite;
+	-o-animation: AnimationName 30s ease infinite;
+	animation: AnimationName 30s ease infinite;
+	}
+
+	@-webkit-keyframes AnimationName {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+	@-moz-keyframes AnimationName {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+	@-o-keyframes AnimationName {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+	@keyframes AnimationName {
+	    0%{background-position:0% 50%}
+	    50%{background-position:100% 50%}
+	    100%{background-position:0% 50%}
+	}
+
+table {
+	width: 80%;
+	min-width: 500 px;
+	margin: 0 auto;
+}
+
+canvas {
+	height: 0;
+	width: 0;
+}
+
+th {
+	background-color: rgba(0,0,255,0.2);
+	color: #ffffff;
+	text-align: center;
+	padding: 5px;
+}
+
+tbody {
+	margin: 0;
+	border: 0 solid rgba(255,255,255,0.06);
+}
+
+td {
+	background-color: rgba(200,200,255,0.3);
+	padding: 5px 15px;
+	vertical-align: top;	
+}
+
+tr:nth-child(even) {
+    background-color: rgba(255,255,255,0.3);
+}
+
+input {
+	padding: 4px;
+	    -webkit-appearance: none; 
+	    -moz-appearance: none; 
+	border: 2px solid rgba(0,0,0,0); 
+	margin: 0 auto;
+	color: #ffffff;
+}
+
+input[type="button"]:not(.active) {
+	background-color: rgba(0,0,255,0);
+}
+
+input[type="button"]:not(.active):not([disabled]):hover {
+	background-color: rgba(0,0,255,0.1);
+}
+
+input[type="button"]:disabled {
+	color: rgba(255,0,0,0.1);
+}
+
+.active {
+	background-color: #ff4d4d;
+	color :#fff;
+}
+
+.container {
+	padding: 100px 0;
+}
+
+#buttons {
+	width: 80%;
+	min-width: 500 px;
+	text-align:center;
+	font-size: 200%;
+	margin: 0 auto;
+	background-color: rgba(0,0,255,0.2);
+	border-radius: 25px 25px 0 0;
+}
+

@@ -1,0 +1,10 @@
+body {
+	background: orange;
+}
+#special {
+	color: darkgreen;
+	background-color: #ffffff;
+}
+.completed {
+	text-decoration: wavy line-through;
+}

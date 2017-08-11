@@ -1,0 +1,113 @@
+/* Shows that I know how to style css /
+/* Gives the <body> element a background of #bdc3c7*/
+
+body {
+	background: #bdc3c7;
+}
+
+
+/* Makes the <h1> element #9b59b6*/
+
+h1 {
+	color: #9b59b6;
+}
+
+/* Makes all <h2> elements orange */
+
+h2 {
+	color: orange;
+}
+
+/* Makes all <li> elements blue*/ 
+
+li {
+	color: #0081B1;
+}
+
+/*Changes the background on every paragraph to be yellow*/
+
+p {
+	background: yellow;
+}
+
+/*Makes all inputs (EXCEPT CHECKBOXES) have a 3px red border*/
+
+input {
+	border: 3px solid red;
+}
+
+/* Gives everything with the class 'hello' a white background*/
+
+.hello {
+	background: #ffffff;
+}
+
+/* Gives the element with id 'special' a 2px solid blue border*/
+
+#special {
+	border: 2px solid blue;
+}
+
+/*Makes all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
+
+div p {
+	font-size: 25px;
+}
+
+
+/*Makes only inputs with type 'text' have a light green background*/
+
+input[type="text"] {
+	background: #CDFFD5;
+}
+
+
+/* Gives both <p>'s inside the 3rd <div> a pink background*/
+
+div:nth-of-type(3) p {
+	background: #F88C8C;
+}
+
+/* Gives the 2nd <p> inside the 4th <div> a 5px white dashed border*/
+
+div:nth-of-type(4) p:nth-of-type(2) {
+	border: 5px dashed white;
+}
+
+/* Makes the <em> in the 3rd <div> element white and 20px font(font-size:20px)*/
+
+div:nth-of-type(3) em {
+	color: #ffffff;
+	font-size: 20px;
+}
+
+/*Makes all "checked" checkboxes have a left margin of 50px(margin-left: 50px)*/
+
+input:checked {
+	margin-left: 50px;
+}
+
+/* Makes the <label> elements all UPPERCASE*/
+
+label {
+	text-transform: uppercase;
+}
+
+/*Makes the first letter of the element with id 'special' green and 100px font size(font-size: 100)*/
+
+#special:first-letter {
+	font-size: 100px;
+	color: green;
+}
+
+/*Makes the <h1> element's color change to blue when hovered over */
+
+h1:hover {
+	color: blue;
+}
+
+/*Makes the <a> element's that have been visited pink */
+
+a:visited { 
+    color: pink;
+}

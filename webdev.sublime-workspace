@@ -1,0 +1,735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"button",
+				"buttons"
+			],
+			[
+				"page",
+				"pageCount"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"stop",
+				"stopPropagation\t(): void Event"
+			],
+			[
+				"functi",
+				"function_without_name"
+			],
+			[
+				"lin",
+				"line-through"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"text",
+				"textDecoration\t = 'line-through' Style CSS"
+			],
+			[
+				"bord",
+				"borderColor\t = 'transparent' Style CSS"
+			],
+			[
+				"bac",
+				"background\t = '' Style CSS"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"func",
+				"function_with_name"
+			],
+			[
+				"fun",
+				"function_without_name"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"trans",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"hard",
+				"hardButton"
+			],
+			[
+				"easy",
+				"easyButton"
+			],
+			[
+				"pic",
+				"pickedColor"
+			],
+			[
+				"genera",
+				"generateRandomColors"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"function",
+				"function_with_name"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"funct",
+				"function_with_name"
+			],
+			[
+				"change",
+				"changeColors"
+			],
+			[
+				"messe",
+				"messageDisplay"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"click",
+				"clickedColor"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"functio",
+				"function_without_name"
+			],
+			[
+				"firs",
+				"firstLI"
+			],
+			[
+				"win",
+				"winscoreDisplay"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"querys",
+				"querySelector\t( selectors: DOMString ): Element Element"
+			],
+			[
+				"body",
+				"bodyBak"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"btn-",
+				"btn-default \tBootstrap 3 Class"
+			],
+			[
+				"col",
+				"col-md-12 \tBootstrap 3 Class"
+			],
+			[
+				"navbar-fixe",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"col-sm",
+				"col-sm-6 \tBootstrap 3 Class"
+			],
+			[
+				"col-md",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"col-m",
+				"col-md-4 \tBootstrap 3 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"navba",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"navbar",
+				"navbar-default \tBootstrap 3 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"speci",
+				"Specificity"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "knowit/assets/css/knowit.css",
+			"settings":
+			{
+				"buffer_size": 2023,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "knowit/index.html",
+			"settings":
+			{
+				"buffer_size": 1039,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/webdevbootcamp/import-fra-github-api"
+	],
+	"file_history":
+	[
+		"/D/webdevbootcamp/knowit/assets/js/knowit.js",
+		"/D/webdevbootcamp/knowit/index.html",
+		"/D/webdevbootcamp/import-fra-github-api/assets/css/knowit.css",
+		"/D/webdevbootcamp/enkel jQuery/jQuery todo app/assets/css/todos.css",
+		"/D/webdevbootcamp/import-fra-github-api/index.html",
+		"/D/webdevbootcamp/import-fra-github-api/assets/js/knowit.js",
+		"/D/webdevbootcamp/enkel jQuery/jQuery todo app/index.html",
+		"/D/webdevbootcamp/import-fra-github-api/assets/js/prerender.js",
+		"/D/webdevbootcamp/enkel jQuery/Patatap/assets/css/circles.css",
+		"/D/webdevbootcamp/enkel jQuery/data.js",
+		"/D/webdevbootcamp/enkel jQuery/Patatap/circles.html",
+		"/D/webdevbootcamp/enkel jQuery/jQuery todo app/assets/js/todos.js",
+		"/D/webdevbootcamp/enkel jQuery/jQuery todo app/todo.css",
+		"/D/webdevbootcamp/enkel jQuery/jQuery todo app/todo.js",
+		"/D/webdevbootcamp/enkel jQuery/jQuery todo app/jQuerytodoapp.html",
+		"/D/webdevbootcamp/enkel jQuery/todo.js",
+		"/D/webdevbootcamp/enkel jQuery/todo.css",
+		"/D/webdevbootcamp/enkel jQuery/jQuerytodoapp.html",
+		"/D/webdevbootcamp/enkel jQuery/methods.js",
+		"/D/webdevbootcamp/enkel jQuery/methods.html",
+		"/D/Games/Deponia Doomsday/lua/json.lua",
+		"/D/Games/Deponia Doomsday/lua/voices_EN.lua",
+		"/J/usplash/moon/readme.txt",
+		"/J/usplash/vegg/readme.txt",
+		"/J/usplash/flowerbasket/readme.txt",
+		"/J/usplash/banan/readme.txt",
+		"/J/usplash/hus/readme",
+		"/D/webdevbootcamp/enkel jQuery/jqueryDemo.js",
+		"/D/webdevbootcamp/enkel jQuery/jqueryDemo.html",
+		"/D/webdevbootcamp/enkel Javascript/color-game.css",
+		"/D/webdevbootcamp/enkel Javascript/color-game.html",
+		"/D/webdevbootcamp/enkel Javascript/color-game.js",
+		"/D/webdevbootcamp/enkel Javascript/todo.css",
+		"/D/webdevbootcamp/enkel Javascript/todo.js",
+		"/D/webdevbootcamp/enkel Javascript/todo.html",
+		"/D/webdevbootcamp/enkel Javascript/score.css",
+		"/D/webdevbootcamp/enkel Javascript/score.js",
+		"/D/webdevbootcamp/enkel Javascript/score.html",
+		"/C/Users/Johan/Dropbox/KUNST/webside/kunstnere.html",
+		"/D/webdevbootcamp/enkel Javascript/script.js",
+		"/D/webdevbootcamp/enkel Javascript/index.html",
+		"/D/webdevbootcamp/enkel Bootstrap/navbars.html",
+		"/D/webdevbootcamp/enkel Bootstrap/landingpage.css",
+		"/D/webdevbootcamp/enkel Bootstrap/landingpage.html",
+		"/D/webdevbootcamp/enkel Bootstrap/landingpage.hmtl",
+		"/D/webdevbootcamp/enkel Bootstrap/bootstrap.css",
+		"/D/webdevbootcamp/enkel Bootstrap/grid.css",
+		"/D/webdevbootcamp/enkel Bootstrap/grid.html",
+		"/D/webdevbootcamp/enkel Bootstrap/basics.html",
+		"/D/webdevbootcamp/enkel CSS/blog.css",
+		"/D/webdevbootcamp/enkel CSS/blog.html",
+		"/D/webdevbootcamp/enkel CSS/portfolio.html",
+		"/D/webdevbootcamp/enkel CSS/portfolio.css",
+		"/D/webdevbootcamp/enkel CSS/fonts.css",
+		"/D/webdevbootcamp/enkel CSS/fonts.html",
+		"/D/webdevbootcamp/enkel CSS/selectors.html",
+		"/D/webdevbootcamp/enkel CSS/selectors.css",
+		"/D/webdevbootcamp/enkel CSS/specificity.html",
+		"/D/webdevbootcamp/enkel CSS/specificity.css",
+		"/D/webdevbootcamp/enkel CSS/todo.css",
+		"/D/webdevbootcamp/enkel CSS/todolist.html",
+		"/D/webdevbootcamp/enkel CSS/app.css",
+		"/D/webdevbootcamp/enkel CSS/aboutMe.html",
+		"/D/webdevbootcamp/enkel CSS/aboutMe-css-inside.html",
+		"/C/Users/Johan/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/D/webdevbootcamp/project 1/formexample.html",
+		"/D/webdevbootcamp/project 1/firstPage.html",
+		"/C/Users/Johan/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"urls",
+			"x",
+			"2",
+			"easy",
+			"hard",
+			"col-md-6",
+			"col-md-6 ",
+			"col-md-4",
+			"for",
+			"email",
+			"Email",
+			"email",
+			"Type",
+			"Red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "knowit/assets/css/knowit.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1640,
+								1648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "knowit/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webdev.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

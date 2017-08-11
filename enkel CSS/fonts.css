@@ -1,0 +1,45 @@
+/*font-family*/
+h1 {
+	font-family: 'VT323', monospace;
+}
+
+p {
+	font-family: 'Nunito', sans-serif;
+}
+
+.mellom {
+	font-family: 'Pacifico', cursive;
+}
+
+/*font-size*/
+
+h1 {
+	font-size: 100px;
+}
+span {
+	font-size: 2.0em;
+}
+
+/*font-weight*/
+
+p {
+	font-weight: bold;
+}
+
+/*line-height*/
+
+p{
+	line-height: 1.5;
+}
+
+/*text-align*/
+
+h1 {
+	text-align: center;
+}
+
+/*text-decoration*/
+
+h1 {
+	text-decoration: underline;
+}
