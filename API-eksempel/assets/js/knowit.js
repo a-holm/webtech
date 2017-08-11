@@ -8,6 +8,16 @@ var mydata = $.getJSON(url, function(data){
     $(html).appendTo("#tabellBody")
 });
 
+//error handling for API kall
+mydata.fail(function(response)){
+    // TODO: bedre error handling.
+    console.log(response.status);
+    console.log(response.response);
+    console.log(response.responseText)
+    console.log(response.statusText);
+}
+
+//  TODO: Koden kunne gjerne være mer modularisert. for å unngå global namespace pollution
 var n = 20; //antall rader per side
 var tr = [] ;// array med hver rad
 var table
@@ -16,6 +26,7 @@ var pageCount
 // p er det valgte sidenummeret som blir generert når brukeren trykker på en knapp
 
 mydata.done(function(response){
+    //Koden kunne gjerne være mer modularisert.
     // Når JSON er ferdig
     // hente antall rader
     table = document.getElementById('Tabell');
@@ -69,8 +80,8 @@ function sortere (p) {
 
 function pageButtons (pCount, cur) {
 	// skru av "Prev" knappen på første side og "Next" på siste sist
-	var prevDis = (cur == 1) ? "disabled" : "";
-	var nextDis = (cur == pCount) ? "disabled" : "";
+	var prevDis = (cur === 1) ? "disabled" : "";
+	var nextDis = (cur === pCount) ? "disabled" : "";
 
 	//variabelen "buttons" vil holde alle knappene man behøver som HTML
 	var buttons = "<input type='button' value='&lt;&lt; Prev' onclick='sortere(" + (cur-1) + ")' " + prevDis + ">";
