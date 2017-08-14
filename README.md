@@ -1,5 +1,5 @@
 # Web-utviklingsportefølje for Johan Holm
-###### Frontend & Backend
+###### *Front-end & back-end teknologier som er brukt:* HTML, CSS, JavaScript, Express, Node.js, Paper.js, Howler.js, jQuery, Bootstrap, Semantic ui, MongoDB
 
 Foldere og beskrivelser av prosjektene:
 
