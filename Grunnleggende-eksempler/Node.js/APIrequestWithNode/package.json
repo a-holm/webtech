@@ -1,0 +1,14 @@
+{
+  "name": "apirequestwithnode",
+  "version": "1.0.0",
+  "description": "Make API requests with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Holm",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}

@@ -1,0 +1,16 @@
+<% include partials/header %>
+
+<h1>The Posts Page</h1>
+
+
+<% for (var i = 0, len = posts.length; i < len; i++) { %>
+    <li><%= posts[i].title %> - <strong><%= posts[i].author %></strong></li>
+<% } %>
+
+<p>And a different way to show the same code:</p>
+
+<% posts.forEach(function(post){ %>
+    <li><%= post.title %> - <strong><%= post.author %></strong></li>
+<% }) %>
+
+<% include partials/footer %>
